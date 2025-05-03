@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 -   Better Engineering Practices
 
 
-Some cool things
-[Assembly isn't scary!](https://gist.github.com/SmolPatches/47766855eef2f80e29d7e45bfeacb75e)
+# Some cool things
+- [Assembly isn't scary!](https://gist.github.com/SmolPatches/47766855eef2f80e29d7e45bfeacb75e) 
+- [Learning Rust the Dangerous Way](https://cliffle.com/p/dangerust/)
